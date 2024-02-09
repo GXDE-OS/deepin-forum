@@ -1,0 +1,8 @@
+[Desktop Entry]
+Conmment=deepin forum desktop file
+Exec=deepin-forum
+Icon=deepin
+Name=deepin forum
+Name[zh]=社区论坛
+Type=Application
+X-Deepin-Vendor=deepin

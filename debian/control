@@ -1,0 +1,14 @@
+Source: deepin-forum
+Section: net
+Priority: optional
+Maintainer: Heng Liu <liuhnga@uniontech.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+Homepage: https://www.deepin.org/
+
+Package: deepin-forum
+Architecture: all
+Depends: xdg-utils
+Multi-Arch: foreign
+Description: A scripts to deepin forum
+ A shortcut to deepin forum

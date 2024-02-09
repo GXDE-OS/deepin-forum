@@ -1,0 +1,7 @@
+#!/bin/bash
+if [ x$LANG = xzh_CN.UTF-8 ]
+then
+    xdg-open "https://bbs.deepin.org/zh?set_language=zh"
+else
+    xdg-open "https://bbs.deepin.org/en?set_language=en"
+fi
